@@ -1,1 +1,1 @@
-This Repository Contains All the Experiments and Projects which i did as part of my FullStack Web Development Lab
+This Repository is All the Experiments and Projects as part of my FullStack Web Development Lab
